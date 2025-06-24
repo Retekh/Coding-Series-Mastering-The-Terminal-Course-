@@ -18,7 +18,7 @@ Make sure to save these commands.
 
 Now make sure your background is something you like because that’s what will make your setup look great. Go to settings, wallpaper then choose your favorite. 
 
-### Installing Homebrew and ITerm2
+## Installing Homebrew and ITerm2
 
 Now let's download homebrew. Homebrew is a package manager for mac that will help us organize and download various files. So to download it in the terminal we will enter the command:
 
