@@ -66,6 +66,6 @@ This will apply the changes or you can restart the terminal. Now lets create a .
 
 Then you can copy this basic customization template thats in this repo:
 
-### curl -o ~/.config/starship.toml https://raw.githubusercontent.com/<user>/<repo>/<branch>/path/to/starship.toml
+### curl -o ~/.config/starship.toml https://raw.githubusercontent.com/Retekh/Coding-Series-Mastering-The-Terminal-Course-/main/starship.toml
 
 And that’s it. Now your workspace looks clean, efficient and beautiful.
